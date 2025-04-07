@@ -2,7 +2,7 @@
 
 React-Weather is a user-friendly weather application built using React, React-Router, Redux, and powered by LocationIQ and RESTCountries APIs. This documentation will guide you through the app's features, technologies, setup, and usage.
 
-[![React-Weather](public/logo192.png)](https://weather-app-hrutvik.netifly.app)
+[![React-Weather](public/logo192.png)](https://api.netlify.com/api/v1/badges/813f31e1-2532-4a9f-b248-fa9aaae09dcf/deploy-status)](https://app.netlify.com/sites/weather-app-hrutvik/deploys)
 
 ## Features
 
