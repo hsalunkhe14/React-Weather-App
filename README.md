@@ -40,7 +40,7 @@ React-Weather is a user-friendly weather application built using React, React-Ro
 Clone the project
 
 ```bash
-  git clone https://github.com/hsyntes/react-weather
+  git clone https://github.com/hsalunkhe14/react-weather
 ```
 
 Go to the project directory
@@ -68,6 +68,3 @@ Start the server
 
 Thank you for using the React-Weather app! Feel free to explore the source code, contribute, and enhance your weather experience using this intuitive React application.
 
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hsyntes)
